@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: lastserver
+Specification-Vendor: KSmc_brigade
+Specification-Version: 1
+Implementation-Title: LastServer
+Implementation-Version: 1.0
+Implementation-Vendor: KSmc_brigade
+Implementation-Timestamp: 2024-07-11T13:58:40+0800
+MixinConfigs: lastserver.mixins.json
+

@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "cn/ksmcbrigade/lastserver/mixin/ServersListScreenMixin": {
+      "init": "Lnet/minecraft/client/gui/screens/multiplayer/JoinMultiplayerScreen;m_7856_()V"
+    },
+    "cn/ksmcbrigade/lastserver/mixin/ConnectingScreenMixin": {
+      "connect": "Lnet/minecraft/client/gui/screens/ConnectScreen;m_247688_(Lnet/minecraft/client/Minecraft;Lnet/minecraft/client/multiplayer/resolver/ServerAddress;Lnet/minecraft/client/multiplayer/ServerData;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "cn/ksmcbrigade/lastserver/mixin/ServersListScreenMixin": {
+        "init": "Lnet/minecraft/client/gui/screens/multiplayer/JoinMultiplayerScreen;m_7856_()V"
+      },
+      "cn/ksmcbrigade/lastserver/mixin/ConnectingScreenMixin": {
+        "connect": "Lnet/minecraft/client/gui/screens/ConnectScreen;m_247688_(Lnet/minecraft/client/Minecraft;Lnet/minecraft/client/multiplayer/resolver/ServerAddress;Lnet/minecraft/client/multiplayer/ServerData;)V"
+      }
+    }
+  }
+}
